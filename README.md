@@ -1,4 +1,4 @@
-# Chatbot para Torcedores de CS2 da FURIA
+# ChatBot para Torcedores de CS2 da FURIA
 
 ## Descrição
 
