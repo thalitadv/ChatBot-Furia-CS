@@ -8,7 +8,7 @@ Este é um chatbot desenvolvido para torcedores da FURIA. O sistema de chat ofer
 - **Modo Fã**: Respostas mais animadas e com o estilo de uma conversa descontraída entre torcedores.
 
 ## Acesse o ChatBot 
-- **Link**: ---
+- **Link**: https://thalitadv.github.io/ChatBot-Furia-CS/
 
 ## Funcionalidades Principais
 *1. Seleção de Modo*
