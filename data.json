@@ -1,0 +1,140 @@
+{
+  "modes": {
+    "assistant": {
+      "name": "Assistente FURIA",
+      "welcome": "Olá! Sou o assistente de treinamento da FURIA. Posso te ajudar com análises técnicas, dados de desempenho e materiais para evolução no CS2. Escolha uma opção:",
+      "exit": "Analise os dados fornecidos e pratique os conceitos nos treinos. Volte quando precisar de mais análises técnicas!"
+    },
+    "fan": {
+      "name": "Torcedor FURIA",
+      "welcome": "E aí, furioso! Aqui é o bot oficial da maior torcida do CS! Quer saber tudo sobre o nosso time? Vem comigo!",
+      "exit": "FURIA ACIMA DE TUDO! Não esquece de acompanhar os próximos jogos e gritar #VAMOFURIA"
+    }
+  },
+  "mainMenu": {
+    "1": {
+      "title": {
+        "assistant": "Análise dos Jogadores",
+        "fan": "Conheça os Astros da FURIA"
+      },
+      "options": {
+        "1": "FalleN",
+        "2": "KSCERATO",
+        "3": "yuurih",
+        "4": "YEKINDAR",
+        "5": "molodoy",
+        "6": "guerri (coach)"
+      },
+      "info": {
+        "1": {
+          "assistant": "Gabriel 'FalleN' Toledo | Função: IGL/AWPer | Stats recentes: 1.15 Rating | Análise: Líder tático com 87% de acerto em calls decisivas. Dica: Observe seu posicionamento mid-round em mapas como Overpass.",
+          "fan": "FalleN é o PROFESSOR! Ícone do CS BR que já formou metade dos pro players do país e agora comanda a FURIA com aquela call certeira! #LendaViva"
+        },
+        "2": {
+          "assistant": "Kaike 'KSCERATO' Cerato | Função: Rifler | Stats: 1.24 Rating (6 meses) | Destaque: 72% HS rate em Mirage. Dica: Fique atento à sua precisão e posicionamento em Mirage.",
+          "fan": "O CERATINHO É MUITO CERATO! Dono da mira mais precisa do Brasil e aquele clutcher que nunca te abandona no 1v5! Tá maluco!"
+        },
+        "3": {
+          "assistant": "Yuri 'yuurih' Santos | Entry Fragger | Heatmap: 63% ações no Bombsite A (Inferno). Dica: Veja como ele entra no site e controla com molotovs.",
+          "fan": "yuurih é FOGO! O cabra que entra primeiro e detona tudo! Jogador mais explosivo da FURIA e dono daquele molotov que já queimou até a mãe do adversário!"
+        },
+        "4": {
+          "assistant": "Mareks 'YEKINDAR' Gaļinskis | Entry Specialist | Stats: 1.18 Impact Rating. Dica: Preste atenção nas suas entradas rápidas, especialmente em Dust2 e Mirage.",
+          "fan": "YEKINDAR O LETÃO BRASILEIRO! 🇧🇷 Chegou pra botar fogo na FURIA com aquela entrada braba que deixa os adversários tremendo! #FuriaGlobal"
+        },
+        "5": {
+          "assistant": "Igor 'molodoy' Zhdanov | Função: Support/Clutcher | Stats: 1.10 Rating | Destaque: 43% win rate em clutches 1vX. Dica: Observe sua calma e precisão nos clutches 1vX.",
+          "fan": "molodoy O GURI DA RÚSSIA! ❄️ O mais novo da tropa mas já mostra que tem sangue frio pra ganhar aqueles clutches impossíveis! #FuriaTemEstrela"
+        },
+        "6": {
+          "assistant": "Nicholas 'guerri' Nogueira | Coach | Estratégias: 78% win rate em pistol rounds. Dica: Guerri sempre garante vantagem nos pistol rounds.",
+          "fan": "guerri O MAESTRO! O cérebro por trás das jogadas mais lindas da FURIA e pai tático do time! #CientistaDoCS"
+        }
+      }
+    },
+    "2": {
+      "title": {
+        "assistant": "Aprenda com a Furia",
+        "fan": "Aprenda com os Melhores"
+      },
+      "options": {
+        "1": "Dicas Táticas",
+        "2": "Movimentação Avançada",
+        "3": "Posicionamento Clutch"
+      },
+      "info": {
+        "1": {
+          "assistant": "Quer melhorar sua performance no CS2? O Guerri, coach da FURIA, tem dicas incríveis para iniciantes. Veja as dicas do guerri: (https://www.redbull.com/br-pt/games-cs-go-furia-guerri-dicas-iniciantes)",
+          "fan": "Quer jogar igual aos profissionais? A FURIA manda muito! Dá uma olhada nas dicas do Guerri para iniciantes e aprenda com o mestre:  (https://www.redbull.com/br-pt/games-cs-go-furia-guerri-dicas-iniciantes)"
+        },
+        "2": {
+          "assistant": "KSCERATO mostra como melhorar no strafe. Tempo ideal entre shots: 0.8s. Pratique no mapa. Link: (https://www.youtube.com/watch?v=W4opkOafd8w)",
+          "fan": "Quer mover que nem o KSCERATO? Treina no mapa 'Aim Botz' e depois vê o tutorial do nosso Ceratinho: (https://www.youtube.com/watch?v=W4opkOafd8w)"
+        },
+        "3": {
+          "assistant": "Clutch Positioning: yuurih prefere 1v3 positions com múltiplas rotas de escape. Assiste o vídeo do yuuri no 1v3: (https://www.youtube.com/watch?v=aLcZm6ALcPQ)",
+          "fan": "Posição perfeita pra 1vX? Na frente da TV torcendo! Mas se quiser aprender com o nosso grande yuurih: (https://www.youtube.com/watch?v=aLcZm6ALcPQ)"
+        }
+      }
+    },
+    "3": {
+      "title": {
+        "assistant": "Dados de Performance",
+        "fan": "Bastidores da FURIA"
+      },
+      "options": {
+        "1": "Rotina de Treinos",
+        "2": "Comunicação em Jogo",
+        "3": "Curiosidades Exclusivas"
+      },
+      "info": {
+        "1": {
+          "assistant": "A rotina de treinos da FURIA é intensa, com sessões diárias focadas em táticas, prática e análise individual. Em um vídeo recente, FalleN compartilhou detalhes sobre a preparação da equipe durante o bootcamp: (https://www.instagram.com/reel/DGOQeeMpeg6/)",
+          "fan": "Os meninos treinam PESADO! 8h por dia, mas ainda arrumam tempo pra zuar no Twitter. Veja a preparação deles durante o bootcamp: (https://www.instagram.com/reel/DGOQeeMpeg6/)"
+        },
+        "2": {
+          "assistant": "As calls são lideradas pelo FalleN mas todos participam. Relatório de eficiência: 92% info accuracy. Vídeo mostrando como a FURIA se comunica: (https://www.youtube.com/watch?v=1Xa9-wxluZY)",
+          "fan": "As calls são lideradas pelo FalleN mas todo mundo participa! Ouve esse hype: (https://www.youtube.com/watch?v=1Xa9-wxluZY)"
+        },
+        "3": {
+          "assistant": "Fato: KSCERATO possui diferentes rotinas de aquecimento adaptadas para cada mapa, focando em mira e movimentação específicas. Veja detalhes sobre a preparação dos jogadores da FURIA aqui: (https://www.hltv.org/team/8297/furia)",
+          "fan": "Sabia que o yuurih coleciona funko pop? E o KSCERATO tem medo de altura! Mas sério mesmo, toma aqui mais curiosidades para se inspirar: (https://www.hltv.org/team/8297/furia)"
+        }
+      }
+    },
+    "4": {
+      "title": {
+        "assistant": "Onde Acompanhar",
+        "fan": "Onde Acompanhar os melhores"
+      },
+      "options": {
+        "1": "Transmissões Oficiais",
+        "2": "Estatísticas Detalhadas"
+      },
+      "info": {
+        "1": {
+          "assistant": "Transmissões com análise técnica: FURIA Twitch (com comentários de coaches). Transmissão oficial no [Twitch da FURIA](https://twitch.tv/furia)",
+          "fan": "Bora assistir junto! Transmissão oficial no [Twitch da FURIA](https://twitch.tv/furia)"
+        },
+        "2": {
+          "assistant": "Estatísticas em tempo real: HLTV.org + Leetify para dados avançados. Acesso: [HLTV FURIA Stats](https://www.hltv.org/team/8297/furia)",
+          "fan": "Nossos números são lindos! Confere no [HLTV](https://www.hltv.org/team/8297/furia) e comemora cada rating alto!"
+        }
+      }
+    }
+  },
+  "responses": {
+    "chooseOption": {
+      "assistant": "Selecione uma categoria para análise técnica:",
+      "fan": "Escolhe aí o que você quer saber sobre a FURIA:"
+    },
+    "backOption": {
+      "assistant": "Deseja analisar outro aspecto ou encerrar a sessão?",
+      "fan": "Bora ver mais coisas ou já vai dar tchau?"
+    },
+    "invalidOption": {
+      "assistant": "Opção não reconhecida. Por favor, insira um número válido conforme o menu técnico.",
+      "fan": "Ei, essa opção aí não existe não! Tenta de novo com os números do menu, vai!"
+    }
+  }
+}
