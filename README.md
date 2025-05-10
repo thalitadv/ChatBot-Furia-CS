@@ -12,6 +12,7 @@ Este é um chatbot desenvolvido para torcedores da FURIA. O sistema de chat ofer
 
 ## Funcionalidades Principais
 *1. Seleção de Modo*
+
 **Modo Assistente**:
 - Respostas técnicas e analíticas
 - Foco em estatísticas e desempenho
